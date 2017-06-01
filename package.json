@@ -1,6 +1,6 @@
 {
   "name": "json-serialize-deserialize",
-  "version": "1.0.12",
+  "version": "1.0.2",
   "description": "",
   "main": "libs/index",
   "types": "libs/index",
