@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "lib": [
+            "es2016",
+            "dom"
+        ],
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "typeRoots": ["node_modules/@types"],
+        "moduleResolution": "node",
+        "outDir": "libs",
+        "declaration": true
+    },
+    "include": [
+        "*",
+        "src/**/*"
+    ]
+}
