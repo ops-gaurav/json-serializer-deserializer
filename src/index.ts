@@ -1,8 +1,9 @@
 import * as fs from 'fs';
 import * as path from 'path';
 /**
- * a typescript class for serialization and deserialization of JSON files
+ * @desc a typescript class for serialization and deserialization of JSON files
  * via javascript Promises
+ * @author gaurav
  */
 export default class JSONSerializerDeserializer {
 
